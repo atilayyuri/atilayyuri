@@ -1,3 +1,8 @@
+## Atilay Tamkan
+
+![](https://komarev.com/ghpvc/?username=atilayyuri)
+
+
 - 👋 Hello, I’m Atilay Tamkan aka @atilayyuri
 
 - 👀 I have created this repository to track my personal progress
