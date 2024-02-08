@@ -16,11 +16,11 @@
 &nbsp;
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=atilayyuri&theme=graywhite&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=atilayyuri&theme=swift&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](https://komarev.com/ghpvc/?username=atilayyuri&color=green) 
+![](https://komarev.com/ghpvc/?username=atilayyuri&color=f05237) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/atilay-tamkan) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamkan.atilay@gmail.com)](mailto:tamkan.atilay@gmail.com)
 
