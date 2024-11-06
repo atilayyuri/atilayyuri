@@ -5,12 +5,13 @@
 ### About
 
 - 👋 Hello, I’m Atilay Tamkan aka @atilayyuri
-- 🌱 I’m currently learning Javascript and it's frameworks
+- 🌱 Fullstack developer, lately occupied with Deno v2, openapi-stack, Azure Data Factory pipelines
 
 &nbsp;
 
 ### 💻 my current stack:
-- `.py`, `.js`, `.css`, `.html`, `.json`, `.yml`
+- Nuxt, Vue, Typescript, Python, FastAPI, Openapi-stack, Tanstack-query, Tanstack-table, Pinia, Vitest, NodeJS, ExpressJS, Docker, Docker-compose, Deno v2, TypeORM, Jenkins, Django, Django-rest-framework, Python-uv, HTML, CSS, Bash, Apache Airflow, PostgreSQL, ETL, npm, NGINX, Cypress
+
 
 &nbsp;
 &nbsp;
